@@ -260,6 +260,23 @@ nav a:hover {
     color: var(--text-muted);
 }
 
+/* Deployment Section */
+.deployment {
+    padding: 100px 0;
+}
+
+.deployment h3 {
+    font-size: 2rem;
+    margin-bottom: 1.5rem;
+    color: var(--secondary-color);
+}
+
+.deployment p {
+    font-size: 1.2rem;
+    color: var(--text-muted);
+    line-height: 1.8;
+}
+
 /* Footer */
 footer {
     padding: 3rem 0;
